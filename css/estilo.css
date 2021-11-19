@@ -8,3 +8,8 @@ p {
     word-spacing: 5px;
     text-indent: 30px;
 }
+
+div#header {
+    background-color: cyan;
+}
+

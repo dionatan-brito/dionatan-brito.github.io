@@ -10,6 +10,6 @@ p {
 }
 
 div#header {
-    background-color: cyan;
+    background-image: url(/img/spidermanheader.jpg);
 }
 

@@ -2,11 +2,6 @@ p {
     color: blue;
     background-color: chartreuse;
     font-family: sans-serif;
-    text-align: center;
-    line-height: 3px;
-    letter-spacing: 3px;
-    word-spacing: 5px;
-    text-indent: 30px;
 }
 
 div#header {

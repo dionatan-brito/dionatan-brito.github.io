@@ -4,7 +4,9 @@ p {
     font-family: sans-serif;
 }
 
-div#header {
+div.header {
     background-image: url(/img/spidermanheader.jpg);
+    width: auto;
+    height: auto;
 }
 

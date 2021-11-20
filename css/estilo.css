@@ -1,9 +1,14 @@
-body {
+* {
     margin: 0;
     padding: 0;
 }
 
-header.cabHome {
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+header.cabecalho {
     background-image: url(/img/spidermanheader.jpg);
     background: no no-repeat center;
     background-size: cover;
@@ -12,14 +17,14 @@ header.cabHome {
     box-sizing: border-box;
 }
 
-ul {
-    display: flex;
-    gap: 20;
+div.logoMenu {
+    display: flex; 
 
 }
 
-div.logoMenu {
-    display: flex; 
+ul {
+    display: flex;
+    gap: 20;
 
 }
 

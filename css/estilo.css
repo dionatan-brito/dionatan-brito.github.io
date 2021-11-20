@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 header.teste {
     background-image: url(/img/spidermanheader.jpg);
     background-size: cover;

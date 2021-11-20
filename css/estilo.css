@@ -1,8 +1,9 @@
 body {
     margin: 0;
+    padding: 0;
 }
 
-header.teste {
+header.cabHome {
     background-image: url(/img/spidermanheader.jpg);
     background: no no-repeat center;
     background-size: cover;

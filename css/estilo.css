@@ -10,7 +10,7 @@ body, html {
 
 .cabecalho {
     background-image: url(/img/spidermanheader.jpg);
-    background: no-repeat center;
+    background: no no-repeat center;
     background-size: cover;
     height: 100vh;
     width: 100vw; 

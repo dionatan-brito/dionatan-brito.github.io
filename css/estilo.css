@@ -22,7 +22,7 @@
 }
 
 .titulo {
-    align-self: left;
+    box-align: left;
 }
 
 .menu ul {

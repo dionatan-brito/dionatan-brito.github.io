@@ -23,7 +23,7 @@
 }
 
 .titulo {
-    background-image: url(/img/title_spiderman.png);
+    background-color: #EA0000;
     box-align: left;
     size: 50%;
 }

@@ -1,31 +1,28 @@
 * {
     margin: 0;
     padding: 0;
-    border: none;
-    outline: none;
-    box-sizing: border-box;
-    font-size: 100%;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
 }
 
 .cabecalho {
     background-image: url(/img/spidermanheader.jpg);
-    /*background: no no-repeat center;*/
+    background: no no-repeat center;
     background-size: cover;
     height: 100vh;
     width: 100vw; 
-    /*box-sizing: border-box;*/
-    justify-content: flex-start;
+    box-sizing: border-box;
 }
 
 .logo {
     display: flex; 
-
 }
 
 .titulo {
-    background-color: #EA0000;
-    box-align: left;
-    size: 50%;
+    background-image: url(/img/title_spiderman.png);
 }
 
 .menu ul {

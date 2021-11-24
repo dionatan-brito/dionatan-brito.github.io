@@ -22,7 +22,7 @@ body, html {
 }
 
 .titulo {
-    background-image: url(/img/title_spiderman.png);
+    display: flex;
 }
 
 .menu ul {

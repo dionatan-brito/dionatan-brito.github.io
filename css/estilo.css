@@ -1,5 +1,7 @@
 #container {
     background-image: url(/img/spidermanheader.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
     height: 100%;
     width: 100%; 
 }

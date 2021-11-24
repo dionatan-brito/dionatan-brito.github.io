@@ -13,6 +13,8 @@
 
 .titulo {
     display: flex;
+    height: 30%;
+    width: 30%;
 }
 
 .menu ul {

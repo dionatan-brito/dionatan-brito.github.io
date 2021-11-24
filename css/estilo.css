@@ -10,11 +10,6 @@
     display: flex; 
 }
 
-.titulo {
-    height: 60px;
-    width: 140px;
-}
-
 .menu ul {
     padding:0px;
     margin:0px;

@@ -17,7 +17,11 @@ height: 10%;
 width: 10%;
 }
 
-.menu ul {
+.menu{
+    display: flex;
+} 
+
+ul {
     padding:0px;
     margin:0px;
     list-style:none;

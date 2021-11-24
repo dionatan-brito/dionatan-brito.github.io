@@ -1,6 +1,5 @@
 .cabecalho {
     background-image: url(/img/spidermanheader.jpg);
-    background: no no-repeat center;
     background-size: cover;
     height: 100%;
     width: 100%; 
@@ -37,7 +36,6 @@
 }
 
 .menu ul li a:hover {
-    color: #6D6D6D;
     border-bottom:3px solid #EA0000;
 }
 

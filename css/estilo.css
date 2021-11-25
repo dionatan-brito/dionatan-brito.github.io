@@ -6,7 +6,8 @@
 
 .logo {
     display: flex; 
-    background-color: #EA0000;
+    width: 30px;
+    height: 30px;
 }
 
 .titulo {

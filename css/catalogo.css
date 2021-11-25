@@ -5,9 +5,10 @@
     background-size: 100%;
 }
 
-#logo {
+.logo {
     display: inline-block;
-    width: 15%;
+    width: 30px;
+    height: 30px;
 }
 
 .menu {

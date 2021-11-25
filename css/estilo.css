@@ -1,4 +1,4 @@
-#container {
+#container-home {
     background-image: url(/img/spidermanheader.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,6 +15,11 @@
 
 .img-titulo {
     width: 10%;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
 }
 
 

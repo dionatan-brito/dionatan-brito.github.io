@@ -25,5 +25,13 @@
     margin-right: 40px;
 }
 
+.menu ul li a {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
 
 

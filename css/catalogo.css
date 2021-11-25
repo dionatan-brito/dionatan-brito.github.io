@@ -1,0 +1,6 @@
+.container {
+    height: 500px;
+    background-image: url(/img/captainmarvelheader.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

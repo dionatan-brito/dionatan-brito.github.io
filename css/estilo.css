@@ -8,6 +8,11 @@
     display: flex;
 }
 
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
 .menu ul li {
     display: inline;
 }

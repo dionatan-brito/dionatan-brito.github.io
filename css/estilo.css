@@ -11,15 +11,13 @@
     width: 30px;
     height: 30px;
 }
-
-.menu{
-    display: inline;
-} 
-
+ 
 ul {
     padding:0px;
     margin:0px;
     list-style:none;
+    display: flex;
+    justify-content: center;
 }
 
 .menu ul li { 

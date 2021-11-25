@@ -6,13 +6,11 @@
 
 .logo {
     display: flex; 
-    height: 30px;
-    width: 30px;
+    background-color: #EA0000;
 }
 
 .titulo {
-height: 10%;
-width: 10%;
+background-color: black;
 }
 
 .menu{

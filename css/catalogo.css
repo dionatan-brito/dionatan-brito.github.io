@@ -6,6 +6,6 @@
 }
 
 #logo {
-    display: flex;
+    display: inline-block;
     width: 15%;
 }

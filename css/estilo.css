@@ -12,7 +12,7 @@
 }
 
 .menu {
-    display: inline;
+    display: inline-block;
 }
 
 .menu ul {

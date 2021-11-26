@@ -9,8 +9,26 @@
     display: flex;
 }
 
-.menu ul li {
+.menu {
     display: inline;
+}
+
+.menu ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: bold;
 }
 
 .img-titulo {

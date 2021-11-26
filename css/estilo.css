@@ -5,8 +5,10 @@
     height: 500px;
 }
 
-.cabecalho {
-    display: flex;
+.logo {
+    display: inline-block;
+    width: 10%;
+    
 }
 
 .menu {
@@ -35,11 +37,7 @@
     width: 20%;
 }
 
-.logo {
-    display: inline-block;
-    width: 10%;
-    
-}
+
 
 
 

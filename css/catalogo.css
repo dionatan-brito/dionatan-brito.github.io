@@ -43,4 +43,12 @@
     text-transform: uppercase;
 }
 
+.container-produto {
+    margin: 48px;
+}
+
+.card-produto {
+    width: 33%;
+}
+
 

@@ -68,3 +68,7 @@
     font-style: italic;
 }
 
+.card-produto img {
+    width: 100%;
+}
+

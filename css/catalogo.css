@@ -72,3 +72,8 @@
     width: 100%;
 }
 
+.card-produto h2 {
+    font-weight: bold;
+    color: #292929;
+}
+

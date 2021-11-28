@@ -21,6 +21,13 @@ body {
     background-size: cover;
 }
 
+#container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+
 #container-quemsomos {
     background-image: url(/img/thor_header.jpg);
     background-repeat: no-repeat;

@@ -75,9 +75,11 @@ background-size: cover;
 }
 
 #container-quemsomos {
-    background-image: url(/img/thor_header.jpg) no-repeat center center;
+    max-width: 100vw;
+    box-sizing: border-box;
+    background: url(/img/thor_header.jpg) no-repeat center center;
+    height: 100vh;
     background-size: cover;
-    padding: 100px 0;
 }
 
 

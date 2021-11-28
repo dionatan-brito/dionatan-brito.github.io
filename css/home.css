@@ -40,14 +40,11 @@ background-size: cover;
     
 }
 
-.menu {
-    display: inline-block;
-}
-
 .menu ul {
-    padding: 0px;
-    margin: 0px;
-    list-style: none;
+    display: flex;
+    gap: 30px;
+    position: absolute;
+    left: 240px; 
 }
 
 .menu ul li {

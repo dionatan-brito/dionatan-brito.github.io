@@ -43,6 +43,13 @@ body {
     font-weight: bold;
 }
 
+.menu ul li:hover div {
+    border-bottom: 2px solid #fe7467;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
 .img-titulo {
     width: 30%;
 }
@@ -52,6 +59,14 @@ body {
     text-align: center;
     font-size: 2em;
     text-transform: uppercase;
+}
+
+.underline {
+    text-align: center;
+    width: 100px;
+    background-color:#fe7467;
+    height: 4px;
+    border: 0;
 }
 
 .container-produto {

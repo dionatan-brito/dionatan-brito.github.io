@@ -1,3 +1,14 @@
+@font-face {
+    font-family: open-sans;
+    src: url(/font/OpenSans-Regular.ttf);
+}
+
+body {
+    font-family: open-sans;
+    margin: 0;
+    padding: 0;
+}
+
 #container-home {
     background-image: url(/img/spidermanheader.jpg);
     background-repeat: no-repeat;

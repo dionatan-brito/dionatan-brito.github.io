@@ -15,10 +15,10 @@ body {
 
 #container-home {
     max-width: 100vw;
-    box-sizing: border-box;
-    height: 100vh;
-    background-image: url(/img/spidermanheader.jpg) no-repeat center center;
-    background-size: cover;
+  box-sizing: border-box;
+  background: url(/img/spidermanheader.jpg) no-repeat center center;
+  height: 100vh;
+  background-size: cover;
 }
 
 #container-header {

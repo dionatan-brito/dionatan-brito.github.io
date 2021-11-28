@@ -47,11 +47,6 @@ background-size: cover;
     left: 240px; 
 }
 
-.menu ul li {
-    display: inline-block;
-    margin-right: 40px;
-}
-
 .menu ul li a {
     color: #fff;
     text-decoration: none;

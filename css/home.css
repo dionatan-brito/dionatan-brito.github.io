@@ -75,7 +75,7 @@ background-size: cover;
 }
 
 #container-quemsomos {
-    background-image: url(/img/thor_header.jpg) no-repeat center center;
+    background-image: url(/img/thor_header.jpg);
 }
 
 

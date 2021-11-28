@@ -76,6 +76,8 @@ background-size: cover;
 
 #container-quemsomos {
     background-image: url(/img/thor_header.jpg);
+    background-size: cover;
+    padding: 100px 0;
 }
 
 

@@ -68,10 +68,10 @@ body {
     text-transform: uppercase;
 }
 
-.underline {
+.underline-quemsomos {
     text-align: center;
     width: 100px;
-    background-color:#fe7467;
+    background-color:white;
     height: 4px;
     border: 0;
 }

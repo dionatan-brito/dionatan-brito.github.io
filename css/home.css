@@ -61,7 +61,8 @@ background-size: cover;
 }
 
 .img-titulo {
-    width: 30%;
+    height: 200px;
+    margin: 100px 0 0 100px;
 }
 
 .titulo {

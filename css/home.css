@@ -28,12 +28,6 @@ background-size: cover;
     padding: 20px;
   }
 
-#container-quemsomos {
-    background-image: url(/img/thor_header.jpg) no-repeat center center;
-    background-size: cover;
-    padding: 100px 0;
-}
-
 .logo {
     height: 80px;
     
@@ -79,6 +73,13 @@ background-size: cover;
     height: 4px;
     border: 0;
 }
+
+#container-quemsomos {
+    background-image: url(/img/thor_header.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
 
 .underline-quemsomos {
     text-align: center;

@@ -16,13 +16,6 @@ body {
     height: 500px;
 }
 
-#container-quemsomos {
-    background-image: url(/img/thor_header.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-}
-
 .logo {
     display: inline-block;
     width: 10%;
@@ -76,7 +69,7 @@ body {
     border: 0;
 }
 
-a button {
+button {
     color: white;
     font-weight: bold;
     font-size: 20px;

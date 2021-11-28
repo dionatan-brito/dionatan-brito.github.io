@@ -3,6 +3,10 @@
     src: url(/font/OpenSans-Regular.ttf);
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: open-sans;
     margin: 0;
@@ -10,10 +14,11 @@ body {
 }
 
 #container-home {
+    max-width: 100vw;
+    max-height: 100vh;
     background-image: url(/img/spidermanheader.jpg);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat center center;
     background-size: cover;
-    height: 500px;
 }
 
 #container-quemsomos {

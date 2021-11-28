@@ -29,10 +29,9 @@ background-size: cover;
   }
 
 #container-quemsomos {
-    background-image: url(/img/thor_header.jpg);
-    background-repeat: no-repeat;
+    background-image: url(/img/thor_header.jpg) no-repeat center center;
     background-size: cover;
-    height: 500px;
+    padding: 100px 0;
 }
 
 .logo {

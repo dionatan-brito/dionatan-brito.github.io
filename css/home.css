@@ -85,6 +85,10 @@ background-size: cover;
 
 #container-quemsomos article {
     display: grid;
+    grid-template-columns: 1fr 550px;
+    grid-template-rows: auto 1fr;
+    gap: 80px 0;
+    position: relative;
 }
 
 

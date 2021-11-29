@@ -91,14 +91,47 @@ background-size: cover;
     position: relative;
 }
 
+#container-quemsomos article h2 {
+    grid-column: span 2;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, Open-sans, Open Sans, Helvetica;
+    font-size: 2rem;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+  #container-quemsomos article h2::after {
+     content: "";
+     display: block;
+     position: relative;
+     width: 120px;
+     height: 3px;
+     background-color: white;
+     margin: 0 auto;
+     bottom: -10px;
+  }
+  
+  #container-quemsomos article p {
+    grid-row: 2;
+    grid-column: 2;
+    font-family: Poppins, Open-sans, Open Sans, Helvetica;
+    font-size: 1rem;
+    color: white;
+    line-height: 1.35;
+    width: 55ch;
+  }
 
-.underline-quemsomos {
+
+/*.underline-quemsomos {
     text-align: center;
     width: 100px;
     background-color: white;
     height: 4px;
     border: 0;
-}
+}*/
 
 a button {
     color: white;

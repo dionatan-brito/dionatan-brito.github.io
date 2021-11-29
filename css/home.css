@@ -83,6 +83,10 @@ background-size: cover;
     padding: 100px 0;
 }
 
+#container-quemsomos article {
+    display: grid;
+}
+
 
 .underline-quemsomos {
     text-align: center;
